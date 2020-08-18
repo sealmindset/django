@@ -1,7 +1,9 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/django/depshield.svg)](https://depshield.github.io)
+
 ======
 Django
 ======
-[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/django/depshield.svg)](https://depshield.github.io)
+
 
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
